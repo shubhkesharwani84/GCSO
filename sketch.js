@@ -30,7 +30,6 @@ function draw() {
       car.shapeColor = color(0,230,0)
     }
 
-     console.log(speed)
   }
   drawSprites();
  
